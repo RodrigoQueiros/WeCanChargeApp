@@ -1,6 +1,6 @@
 # WeCanCharge
 
-We can charge was an app developed in android studio for Innovation and Entrepreneurship, Mobile Programming and Advanced Web Design Techniques in the Web Information Systems and Technologies degree at ESMAD.
+We can charge was an app developed in android studio for Innovation and Entrepreneurship, Mobile Programming and Advanced Web Design Techniques in the Web Information Systems and Technologies degree at ESMAD. 
 
 ## About
 
